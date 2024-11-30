@@ -1,5 +1,5 @@
 # TRYMATE---your_financialAI
-Try Made - Web Application
+Try MaTE - Web Application
 A web application powered by AI to help users with Digital Marketing and Stock Analysis. The platform uses generative AI models for real-time digital marketing insights and stock market predictions.
 
 Features
